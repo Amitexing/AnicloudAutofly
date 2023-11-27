@@ -1,0 +1,4 @@
+name: AnicloudAutofly
+version: '${project.version}'
+main: ru.anicloud.anicloudautofly.AnicloudAutofly
+api-version: '1.20'
